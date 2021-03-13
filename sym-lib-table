@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Lattice_ECP5_FPGA)(type Legacy)(uri ${KIPRJMOD}/Lattice_ECP5_FPGA.lib)(options "")(descr ""))
+  (lib (name swreg)(type Legacy)(uri ${KIPRJMOD}/swreg.lib)(options "")(descr ""))
+)

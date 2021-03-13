@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_SODIMM200
+D Card edge, front/back, 02x100
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library
